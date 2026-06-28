@@ -20,7 +20,7 @@ const PREC = {
 };
 
 module.exports = grammar({
-  name: "avro_avdl",
+  name: "apache_avro",
 
   conflicts: ($) => [
     // [$.protocol_declaration, $.record_declaration],

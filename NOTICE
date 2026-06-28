@@ -1,9 +1,0 @@
-This project includes and derives from work in:
-https://github.com/victorhqc/tree-sitter-apache-avro
-
-Original grammar author: Victor Quiroz.
-
-This repository is maintained and distributed separately as:
-tree-sitter-avro-avdl
-
-License: MIT (see LICENSE).
